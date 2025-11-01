@@ -1,4 +1,4 @@
-# MMD-Android-BluetoothCommand
+# Android-BLECommand
 
 This project showcases an internal Android tool developed for **Micro Medical Devices (MMD)** to enable wireless communication between Android systems and Arduino-based hardware.  
 It allows engineers and technicians to send configuration commands, test responses, and automate calibration steps over Bluetooth — used for **R&D of new product prototypes**.
